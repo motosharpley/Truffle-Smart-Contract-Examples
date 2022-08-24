@@ -15,3 +15,11 @@ Create a project Directory and open a terminl in it.
 `npx truffle init` generate an empty smart contract file structure
 
 `npm i dotenv` also create a .env file and make sure it is in your .gitignore
+
+Try truffle scaffold commands to get started:
+
+`truffle create contract YourContractName` to scaffold a contract
+
+`truffle create test YourTestName` to scaffold a test
+
+For More Info: http://trufflesuite.com/docs
